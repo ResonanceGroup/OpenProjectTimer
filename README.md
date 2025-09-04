@@ -2,27 +2,31 @@
 
 ## Simple Time Tracking for OpenProject
 
+**⚠️ Alpha Release - Under Development**
+
+OpenProjectTimer is currently in Alpha testing. This means the software may contain bugs, incomplete features, or unstable functionality. Please report any issues you encounter to help us improve the application.
+
 OpenProjectTimer is a desktop application that helps you track time spent on your OpenProject tasks. With an intuitive interface and seamless integration with OpenProject, managing your project time has never been easier.
 
 ## 🌟 Key Features
 
 - **⏱️ Effortless Time Tracking**: Start, pause, and stop timers with a single click
 - **📊 Real-time Synchronization**: Automatically syncs with your OpenProject account
-- **💻 Cross-Platform Support**: Works on Windows, macOS, and Linux (mobile application in development)
-- **🔐 Secure Authentication**: API Key integration for secure login (Oauth2 in development)
-- **🔔 Smart Notifications**: Get reminders and notifications about your time tracking
-- **🎛️ Multi-Window Interface**: Manage program settings while tracking time
-- **🌙 Dark Mode**: Eye-friendly dark theme for late-night work sessions
+- **💻 Cross-Platform Support**: Works on Windows, macOS, and Linux
+- **🔐 Secure Authentication**: OAuth2 integration for secure login
+- **🔔 Smart Notifications**: Reminders to help you stay on track
+- **🎛️ Multi-Window Interface**: Manage settings while tracking time
+- **🌙 Night Mode**: Eye-friendly dark theme for late-night work sessions
 
 ## Download
 
-Download the latest release for your platform:
+Download the latest Alpha release for your platform:
 
 - [Windows Installer](./releases/OpenProjectTimer-windows-latest.exe)
 - [macOS Installer](./releases/OpenProjectTimer-macos-latest.dmg)
 - [Linux AppImage](./releases/OpenProjectTimer-linux-latest.AppImage)
 
-*Note: All downloads include the latest stable version of OpenProjectTimer.*
+*Note: These are Alpha releases and may contain bugs or incomplete features.*
 
 ## Installation
 
