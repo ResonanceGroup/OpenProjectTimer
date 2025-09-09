@@ -22,7 +22,7 @@ OpenProjectTimer is a desktop application that helps you track time spent on you
 
 Download the latest Alpha release for your platform:
 
-- [Windows Installer](./releases/OpenProjectTimer-windows-latest.exe)
+- [Windows Installer](./releases/setup.exe)
 - [macOS Installer](./releases/OpenProjectTimer-macos-latest.dmg)
 - [Linux AppImage](./releases/OpenProjectTimer-linux-latest.AppImage)
 
